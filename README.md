@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhimachitkara23&label=Profile%20views&color=0e75b6&style=flat" alt="ridhimachitkara23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhimachitkara23" alt="ridhimachitkara23" /></a> </p>
-
 - 🔭 I’m currently working on **ios Augmented Reality(AR), 3d modeling project testing**
 
 - 🌱 I’m currently learning **Advancing my skills in automation, API testing, and performance testing to enhance software quality.**
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ridhima chitkara" target="blank"><img align="center" src="https://github.com/ridhimachitkara23/ridhimachitkara23" alt="ridhima chitkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ridhima chitkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridhima chitkara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_ridhi._chitkara?igsh=dHI4ODZrZWo3ZDJ5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhi_chitkara" height="30" width="40" /></a>
 </p>
 
