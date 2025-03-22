@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advancing my skills in automation, API testing, and performance testing to enhance software quality.**
 
-- 👯 I’m looking to collaborate on **AR Measurement**
+- 👯 I’m looking to collaborate on **API Testing, Web testing, Software Testing**
 
 - 💬 I know about the **Test cases, Test suites, API Testing,BrowserStack, Performance Testing, Web Testing, Software Testing, Trello .**
 
