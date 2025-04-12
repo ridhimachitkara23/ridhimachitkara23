@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhimachitkara23&label=Profile%20views&color=0e75b6&style=flat" alt="ridhimachitkara23" /> </p>
 
-- 🔭 I’m currently working on **ios Augmented Reality(AR), 3d modeling project testing**
+- 🔭 I’m currently working on **Trello and handle the advanced ios and android application**
 
-- 🌱 I’m currently learning **Advancing my skills in automation, API testing, and performance testing to enhance software quality.**
+- 🌱 I’m currently learning And **Advancing my skills in automation, API testing, and performance testing to enhance software quality.**
 
 - 👯 I’m looking to collaborate on **API Tetsing, Software Testing, website Testing**
 
