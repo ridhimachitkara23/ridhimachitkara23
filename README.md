@@ -15,7 +15,7 @@
 
 ### 📈 Project Management Expertise
 - Agile/Scrum Methodologies
-- Sprint Planning, Backlog Grooming, Standups
+- Planning, Backlog Grooming, Standups
 - Client Communication, Task Delegation, Delivery Management
 - Tools: **Jira**, **Trello**, **ClickUp**, **Notion**
 
