@@ -1,31 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ridhima Chitkara</h1>
-<h3 align="center">💡 Quality Assurance with a Passion for Perfection</h3>
+# 👋 Hi, I’m Ridhima — QA Analyst + Project Manager
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhimachitkara23&label=Profile%20views&color=0e75b6&style=flat" alt="ridhimachitkara23" /> </p>
+🎯 I help build bug-free, user-friendly, and on-time apps by blending manual testing expertise with agile project management.
 
-- 🔭 I’m currently working on **Trello and handle the advanced ios and android application**
+---
 
-- 🌱 I’m currently learning And **Advancing my skills in automation, API testing, and performance testing to enhance software quality.**
+### 🧪 Quality Assurance Skills
+- Manual Testing | Regression | Smoke | Sanity | UAT
+- Web + Mobile App Testing (Android/iOS)
+- Test Case Design | Bug Reporting | Defect Life Cycle
+- Cross-browser & Responsiveness Testing
+- Tools: **Postman**, **Jira**, **TestRail**, **BrowserStack**, **Excel**, **Slack**
 
-- 👯 I’m looking to collaborate on **API Tetsing, Software Testing, website Testing**
+---
 
-- 💬 I know about the **Test cases, Test suites, API Testing,BrowserStack, Performance Testing, Web Testing, Software Testing, Trello .**
+### 📈 Project Management Expertise
+- Agile/Scrum Methodologies
+- Sprint Planning, Backlog Grooming, Standups
+- Client Communication, Task Delegation, Delivery Management
+- Tools: **Jira**, **Trello**, **ClickUp**, **Notion**
 
-- 📫 How to reach me **ridhimachitara51@gmail.com**
+---
 
-- ⚡ Fun fact **Developers fear me… because I always find that one bug. 😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ridhima chitkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridhima chitkara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ridhi._chitkara?igsh=dHI4ODZrZWo3ZDJ5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhi_chitkara" height="30" width="40" /></a>
-</p>
-
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhimachitkara23&show_icons=true&locale=en&layout=compact" alt="ridhimachitkara23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhimachitkara23&show_icons=true&locale=en" alt="ridhimachitkara23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhimachitkara23&" alt="ridhimachitkara23" /></p>
+### 🤝 Let's Connect
+If you're building an app and need **quality assurance** and **project coordination**, I'm happy to collaborate.
 
